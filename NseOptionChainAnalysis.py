@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-@author= Abhishek Gaurav
+@author Abhishek Gaurav
 """
 """import libraries
 The requests module allows you to send HTTP requests using Python.
